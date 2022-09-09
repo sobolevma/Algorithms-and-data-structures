@@ -1,0 +1,18 @@
+﻿Build started 09.10.2017 14:59:51.
+     1>Project "C:\Users\Максим\Desktop\Практика по АСД\АСД1\АСД1\АСД1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\АСД1.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\АСД1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "АСД1.cpp"
+         АСД1.cpp
+     1>c:\users\максим\desktop\практика по асд\асд1\асд1\асд1.cpp(369): error C2601: 'Vizov1' : local function definitions are illegal
+                 c:\users\максим\desktop\практика по асд\асд1\асд1\асд1.cpp(237): this line contains a '{' which has not yet been matched
+     1>c:\users\максим\desktop\практика по асд\асд1\асд1\асд1.cpp(390): error C2601: 'wmain' : local function definitions are illegal
+                 c:\users\максим\desktop\практика по асд\асд1\асд1\асд1.cpp(237): this line contains a '{' which has not yet been matched
+     1>c:\users\максим\desktop\практика по асд\асд1\асд1\асд1.cpp(405): fatal error C1075: end of file found before the left brace '{' at 'c:\users\максим\desktop\практика по асд\асд1\асд1\асд1.cpp(237)' was matched
+     1>Done Building Project "C:\Users\Максим\Desktop\Практика по АСД\АСД1\АСД1\АСД1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.27
